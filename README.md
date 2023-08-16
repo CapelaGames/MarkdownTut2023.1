@@ -1,6 +1,6 @@
 
-[codeblock](#Code-Block) <br>
-[blockquote](#Blockquote)
+[codeblock](#codeblock)<br>
+[blockquote](#blockquote)
 
 Normal text
 # MarkdownTut2023.1
