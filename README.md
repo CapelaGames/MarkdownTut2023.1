@@ -25,4 +25,4 @@ Normal text
 + Third item
 + Fourth item
 
-![Happy gif](./Image/Happy.gif)
+![Happy gif](./Images/Happy.gif)
